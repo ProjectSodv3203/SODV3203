@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="weather_information">Weather Information</string>
+    <string name="click_to_get_detail">Click to Get Detail</string>
+    <string name="enter_your_country_name">Enter Your Country Name</string>
+    <string name="enter_your_city_name">Enter Your City Name</string>
+</resources>
